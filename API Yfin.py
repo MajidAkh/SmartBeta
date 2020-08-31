@@ -2,10 +2,6 @@ import pandas as pd
 import numpy as np
 import yfinance as yf
 
-
-
-#Df = yf.Ticker("^FCHI").history(period="ytd")
-
 msft = yf.Ticker("msft")
 
 # get stock info
