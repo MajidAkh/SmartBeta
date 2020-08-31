@@ -7,7 +7,7 @@ end_date = "2020-06-30"
 
 
 #Universe
-Universe = "CACtest"
+Universe = "CAC40"
 
 
 #Number of stock you pick for each factors
